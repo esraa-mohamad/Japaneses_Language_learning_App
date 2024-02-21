@@ -1,8 +1,4 @@
-import 'package:app_projects/Modules/toku_app/colors.dart';
-import 'package:app_projects/Modules/toku_app/family_members.dart';
 import 'package:app_projects/Modules/toku_app/home.dart';
-import 'package:app_projects/Modules/toku_app/numbers.dart';
-import 'package:app_projects/Modules/toku_app/phrases.dart';
 import 'package:flutter/material.dart';
 
 void main() {
